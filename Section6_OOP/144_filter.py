@@ -1,4 +1,4 @@
-# filter is used to filter some of the items in an iterable
+# filter is used to filter some of the items in an iterable by provided function for filtering
 
 def odd(item):
     return item % 2 != 0
